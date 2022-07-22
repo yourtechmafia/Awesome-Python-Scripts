@@ -6,8 +6,8 @@ speed=speedtest.Speedtest()
 
 option=int(input('''
 What do you want to know:
-1) Download speed
-2) Upload speed
+1) The Download speed
+2) The Upload speed
 3) Both Download and Upload
 4) Ping
 Your choice: '''))
